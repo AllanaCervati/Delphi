@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/08/11 19:28:08.532,=C:\Users\etec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/11 21:04:28.937,C:\Users\etec\Desktop\Calculadora de Multiplicações\untMultiplicacao.pas=C:\Users\etec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/11 21:04:28.937,C:\Users\etec\Desktop\Calculadora de Multiplicações\untMultiplicacao.dfm=C:\Users\etec\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/08/11 21:04:42.307,C:\Users\etec\Desktop\Calculadora de Multiplicações\prjMultiplicacao.dproj=C:\Users\etec\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
